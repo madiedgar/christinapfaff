@@ -1,2 +1,2 @@
 # christinapfaff
-helping with student resources
+a repository to help with student resources
